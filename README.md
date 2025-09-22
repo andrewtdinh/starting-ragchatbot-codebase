@@ -54,3 +54,5 @@ The application will be available at:
 - Web Interface: `http://localhost:8000`
 - API Documentation: `http://localhost:8000/docs`
 
+#### Note to self:  Cannot get a working torch version for the laptop, so wrapping up this repo for now.  
+Will try to fork the `anythingllm` repo and use it as an exercise for vibe coding using Claude.  
